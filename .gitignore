@@ -33,3 +33,5 @@ dist/
 
 # Lint setup generated file
 .husky/
+chart/*.yaml
+chart/answer/values-*.yaml
